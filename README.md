@@ -7,7 +7,7 @@ The mine graphics have been redone with double the animation frames (16 up from 
 
 There are numerous color options for the mines, you can find animated GIF previews of each mine color in the Previews folder. 
 
-Tap explosions (the color flashes on the recpeptor when arrwows are hit) are available in several color set options including FA+, Waterfall, and even sets with the fantastic explosion colored to match the popular "Rainbowmatic" judgefont. Regular ITG is the default color set.
+Tap explosions (the color flashes on the receptor when arrows are hit) are available in several color set options including FA+, Waterfall, and even sets with the fantastic explosion colored to match the popular "Rainbowmatic" judgefont. Regular ITG is the default color set.
 
 The graphics for the arrows have not been changed, but now there are over 40 new variants of the arrows, featuring various color schemes used in other noteskins (examples include ITG Cel/Metal colors, Dev, DDR Note, DDR Vivid, RGB, and a few others) as well as variations of those color schemes giving them different border options, or no border at all. 
 
