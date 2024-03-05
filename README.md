@@ -12,6 +12,7 @@ Tap explosions (the color flashes on the recpeptor when arrwows are hit) are ava
 The graphics for the arrows have not been changed, but now there are over 40 new variants of the arrows, featuring various color schemes used in other noteskins (examples include ITG Cel/Metal colors, Dev, DDR Note, DDR Vivid, RGB, and a few others) as well as variations of those color schemes giving them different border options, or no border at all. 
 
 There are animated GIF previews of every arrow variation on the Previews folder. They are all read from top to bottom in the following note timings (using the default as an example)
+
 ![Default (TIMINGS INCLUDED)](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/6f13203c-4f5a-4289-898d-e080f1f89897)
 
 Holds (both inactive and active), rolls (both inactive and active), receptors, mines and hold explsoions are all able to be color customized in many different colors and gradients.
