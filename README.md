@@ -5,7 +5,12 @@ The mine graphics have been redone with double the animation frames (16 up from 
 
 ![Default (with comparison to original)](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/bead3032-8e36-40b6-8ff1-f41d193adbfa)
 
-There are numerous color options for the mines, you can find animated GIF previews of each mine color in the Previews folder. 
+There are numerous color options for the mines, you can find animated GIF previews of each mine color in the Previews folder. Here are a few examples
+
+![Red](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/f14cd70a-ad6c-4834-9980-330ceb9774ab)
+![Yellow](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/81888e33-5d8a-4294-b1b9-e607953d744f)
+![Blue](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/a9f979bd-25b5-4b7f-9b6f-7f61c34c49dc)
+![RGB](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/23f87514-fb77-4760-a435-4f1e1c3f8767)
 
 Tap explosions (the color flashes on the receptor when arrows are hit) are available in several color set options including FA+, Waterfall, and even sets with the fantastic explosion colored to match the popular "Rainbowmatic" judgefont. Regular ITG is the default color set.
 
