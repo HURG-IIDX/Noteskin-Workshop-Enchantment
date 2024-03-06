@@ -24,6 +24,10 @@ There are animated GIF previews of every arrow variation on the Previews>Arrows 
 
 ![Default (TIMINGS INCLUDED)](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/6f13203c-4f5a-4289-898d-e080f1f89897)
 
+Thanks to Peter Lawrence/Megasphere (https://github.com/Pete-Lawrence) lifts have been implemented in this noteskin. Lifts will look the same for every arrow variation, and here is a preview .gif of the lift arrow
+
+![Lifts](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/d23f442b-a0ef-4789-a9ff-783e8bbcb65e)
+
 Holds (both inactive and active) rolls (both inactive and active), receptors, mines and hold explsoions are all able to be color customized in many different colors and gradients. As an example, here is the preview image for active holds.
 
 ![Active Holds](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/d423a173-dc3a-41d1-a9a7-13d71a8d3681)
