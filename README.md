@@ -1,3 +1,5 @@
+NOTE: This repo will no longer be updated but will remain available, please check out my enchantment V2 workshop! https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment-V2
+
 Welcome to the "Noteskin Workshop" for the "Enchantment" noteskin! This is a fully customizable, remastered version of the Enchanted noteskin that comes by default with ITGmania. This version has redone assets for holds, rolls, and explosions in 4x resolution compared to the original, and the explosions are now modeled in the shape of the arrows (previously they were imported from the "Metal" noteskin).
 ![new vs old comparison](https://github.com/HURG-IIDX/Noteskin-Workshop-Enchantment/assets/19560941/cf341592-b64b-4c38-9cd3-105f8270a6ac)
 
